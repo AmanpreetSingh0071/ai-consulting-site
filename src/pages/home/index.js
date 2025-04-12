@@ -5,7 +5,7 @@ import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
 import { About } from "../about"; // ✅ Import About Section
-import { Portfolio } from "../solutions"; // ✅ Import Portfolio Section
+import { Solutions } from "../solutions"; // ✅ Import Portfolio Section
 import { ContactUs } from "../contact"; // ✅ Import Contact Section
 
 export const Home = () => {
@@ -42,9 +42,9 @@ export const Home = () => {
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
-                  <Link to="/portfolio" className="text_2">
+                  <Link to="/solutions" className="text_2">
                     <div id="button_p" className="ac_btn btn ">
-                      My Portfolio
+                    AI Case Studies
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
@@ -67,7 +67,7 @@ export const Home = () => {
 
       {/* ✅ Add Other Sections Below */}
       <About />  
-      <Portfolio />  
+      <Solutions />  
       <ContactUs />  
       
     </HelmetProvider>
