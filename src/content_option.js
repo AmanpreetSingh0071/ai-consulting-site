@@ -1,8 +1,8 @@
-const logotext = "AMAN.AI";
+const logotext = "AI Services";
 
 const meta = {
-    title: "Amanpreet AI Consulting",
-    description: "I help businesses transform with AI—strategy, prototyping, and real-time deployment of ML/LLM-powered solutions.",
+    title: "AI Consulting",
+    description: "We help businesses transform with AI—strategy, prototyping and real-time deployment of ML/LLM-powered solutions.",
 };
 
 const introdata = {
@@ -12,40 +12,50 @@ const introdata = {
         second: "Helping startups adopt GenAI",
         third: "Bridging AI and business value",
     },
-    description:
-        "I'm Amanpreet Ahluwalia — AI Engineer with 5+ years in IT and ML. I build intelligent systems for financial analytics, autonomous systems, and enterprise automation.",
+    description: "We’re an AI consulting group focused on delivering high-impact AI solutions — from strategy to deployment — using modern machine learning, GenAI, and MLOps tools.",
 };
 
 const dataabout = {
-    title: "About Me",
+    title: "About Us",
     aboutme:
-        "I'm an AI/ML Engineer who helps businesses unlock the power of AI. With a strong foundation in system integrations and predictive modeling, I deliver end-to-end solutions — from strategy to deployment — using modern AI tools and frameworks.",
+        "We specialize in bridging the gap between businesses and cutting-edge AI. Whether it's designing custom LLM-powered assistants, deploying predictive models, or advising startups on scalable AI strategy — we’ve done it all.",
 };
 
 const worktimeline = [
     {
-        jobtitle: "AI/ML Engineer Intern",
-        where: "3NS.AI, London",
-        date: "Feb 2025 - Present",
+        jobtitle: "AI Strategy & Architecture",
+        where: "Enterprise Clients",
+        date: "Ongoing",
     },
     {
-        jobtitle: "IT Specialist",
-        where: "Bristlecone India Ltd. (Mahindra Group)",
-        date: "Aug 2019 - Oct 2024",
+        jobtitle: "GenAI Chatbots & Assistants",
+        where: "Startups & SMEs",
+        date: "2024 - Present",
     },
 ];
 
-const skills = [
-    { name: "Python", value: 95 },
-    { name: "TensorFlow/Keras", value: 90 },
-    { name: "PyTorch", value: 85 },
-    { name: "LangChain/RAG Pipelines", value: 85 },
-    { name: "HuggingFace Transformers", value: 85 },
-    { name: "Streamlit", value: 85 },
-    { name: "FAISS / Vector Databases", value: 85 },
-    { name: "MLOps (Git, MLflow, Docker)", value: 80 },
-    { name: "R (for statistical analysis)", value: 75 },
-];
+const expertise = [
+    {
+      category: "AI Frameworks",
+      tools: "PyTorch, TensorFlow, HuggingFace Transformers",
+    },
+    {
+      category: "GenAI Tools",
+      tools: "LangChain, OpenAI, RAG Pipelines, FAISS",
+    },
+    {
+      category: "MLOps",
+      tools: "Docker, GitHub Actions, MLflow",
+    },
+    {
+      category: "Deployment",
+      tools: "Streamlit, FastAPI, Vercel",
+    },
+    {
+      category: "Data Science",
+      tools: "Pandas, NumPy, R",
+    },
+  ];  
 
 const services = [
     {
@@ -106,7 +116,7 @@ const contactConfig = {
     YOUR_EMAIL: "work.amanpreet.singh@gmail.com",
     YOUR_FONE: "+44 7823705602",
     description:
-        "Feel free to reach out for AI collaborations, research discussions, or consulting opportunities.",
+        "Let’s explore how AI can unlock value for your business. Drop us a message today.",
     YOUR_SERVICE_ID: "service_5r6vlo8",
     YOUR_TEMPLATE_ID: "template_6wqnwym",
     YOUR_USER_ID: "tI3lYbIH_OBPuAiJ7",
@@ -124,7 +134,7 @@ export {
     dataabout,
     dataportfolio,
     worktimeline,
-    skills,
+    expertise,
     services,
     introdata,
     contactConfig,
