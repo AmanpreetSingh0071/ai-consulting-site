@@ -1,74 +1,70 @@
-# Amanpreet Ahluwalia – AI Engineer Portfolio 🚀
+# AI Consultancy Hub – Modern AI Solutions for Business 🚀
 
-🔗 **Live Site:** [amanpreetsingh0071.github.io/Aman_portfolio](https://amanpreetsingh0071.github.io/Aman_portfolio)
+🔗 **Live Site:** [ai-consultancy-hub.vercel.app](https://ai-consultancy-hub.vercel.app)
 
-A personal portfolio website showcasing my transition from IT to AI/ML engineering — featuring hands-on, production-ready AI projects including LLMs, RAG pipelines, vector databases, and real-world problem solving in energy, healthcare, and finance.
-
----
-
-## 🔍 Projects Featured
-
-### 📄 Chat with Your PDFs – RAG-based AI Assistant  
-**LangChain | FAISS | Streamlit | HuggingFace | Groq | LLMs**  
-A deployed RAG pipeline that allows users to upload PDF documents and query them in real-time using Groq-hosted LLMs with vector search.
-
-### ☀️ PV Output Forecasting App  
-**XGBoost | MLflow | Streamlit | Energy Analytics**  
-Predicts photovoltaic energy output using real-time solar weather data and regression models. Includes a clean interactive UI.
-
-### 🏥 Health Insurance Cost Predictor  
-**scikit-learn | Streamlit | Regression**  
-Estimates insurance premium charges based on lifestyle, BMI, and region using classical ML. End-to-end deployed.
-
-### 📊 Business Audit Report Generator (LLM-powered)  
-**Groq | Streamlit | Data Extraction | JSON Structuring**  
-Fetches company data in real-time and generates structured audit reports using LLMs. Built for scalable due diligence automation.
+A sleek and professional AI consulting website showcasing services like LLM-powered assistants, AI strategy, and predictive modeling — with a clean React-based interface, contact integration, and responsive design.
 
 ---
 
-## 💡 Features
+## 💼 What This Site Offers
 
-- 📱 Fully responsive React layout
-- 📁 Multi-project live deployment
-- ✍️ One-stop config via `src/content_option.js`
-- 🎨 Clean, modern dark UI
-- 🔗 GitHub, LinkedIn, and CV integration
-- 💌 Contact section with embedded mailto
-
----
-
-## 🛠️ Tech Stack
-
-- **React JS**
-- **Streamlit (for project deployments)**
-- **Vercel & GitHub Pages (Hosting)**
-- **LangChain**, **HuggingFace**, **FAISS**, **OpenAI**, **Groq**
-- **MLflow**, **scikit-learn**, **XGBoost**
+- 🎯 **Custom AI Consulting Services**
+- 🤖 **GenAI + LLM Assistants for Business**
+- 🧠 **Machine Learning & Predictive Analytics**
+- 🛠️ **End-to-End Deployment & MLOps**
+- 🧩 **Startup & SME Advisory**
 
 ---
 
-## 📦 Setup
+## 🛠️ Built With
 
-Clone the repo:
+- **React JS** + **Bootstrap**
+- **Vercel** (hosting + CI/CD)
+- **Modular Config via `content_option.js`**
+- Fully customizable sections (About, Expertise, Solutions, Contact)
 
-```bash
-git clone https://github.com/AmanpreetSingh0071/Aman_portfolio.git
-cd Aman_portfolio
+---
+
+## ✨ Key Features
+
+- 📱 Responsive and mobile-friendly layout
+- 🎨 Clean, dark-themed design with animated transitions
+- 🔧 Easy-to-edit content file (`src/content_option.js`)
+- 🔗 Integrated social links (GitHub, LinkedIn, Resume)
+- 📬 Built-in contact section with mail config
+- 🚀 Ready for custom domain or Vercel subdomain
+
+---
+
+## 📁 Folder Structure
+
+```plaintext
+src/
+├── components/         # Shared components (e.g. Header, Footer, ExpertiseSection)
+├── pages/              # Home, About, Solutions, Contact
+├── content_option.js   # Site-wide config (services, skills, contact info)
+└── App.js              # Main entry + routing
 ```
 
-Install dependencies:
+---
+
+## ⚙️ Local Development
+
+Clone the repo and install:
 
 ```bash
+git clone https://github.com/your-username/ai-consultancy-hub.git
+cd ai-consultancy-hub
 npm install
 ```
 
-Run the app:
+Start the dev server:
 
 ```bash
 npm start
 ```
 
-Update content from a single config:
+Update all your consulting content from:
 
 ```bash
 src/content_option.js
@@ -76,12 +72,19 @@ src/content_option.js
 
 ---
 
-## 🙏 Acknowledgements
+## 🌍 Custom Domain
 
-This portfolio was originally adapted from [ubaimutl/react-portfolio](https://github.com/ubaimutl/react-portfolio) and extended for showcasing full-stack AI project deployments.
+This project supports free custom domains (e.g. `eu.org`, `vercel.app`, etc.) and is configured to work out of the box with [Vercel](https://vercel.com).
 
 ---
 
-### ⭐ If you find this useful or inspiring, feel free to give it a star!
+## 🙏 Credits
+
+This site was adapted and extended from my personal portfolio template to serve as a professional consulting presence.
+
+---
+
+### ⭐ If you find this useful or want to fork it for your own AI services, feel free to star it!
+```
 
 ---
