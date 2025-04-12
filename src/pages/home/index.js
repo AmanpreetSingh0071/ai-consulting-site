@@ -5,7 +5,7 @@ import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
 import { About } from "../about"; // ✅ Import About Section
-import { Portfolio } from "../portfolio"; // ✅ Import Portfolio Section
+import { Portfolio } from "../solutions"; // ✅ Import Portfolio Section
 import { ContactUs } from "../contact"; // ✅ Import Contact Section
 
 export const Home = () => {
