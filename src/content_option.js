@@ -13,6 +13,7 @@ const introdata = {
         third: "Bridging AI and business value",
     },
     description: "We’re an AI consulting group focused on delivering high-impact AI solutions — from strategy to deployment — using modern machine learning, GenAI, and MLOps tools.",
+    your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
 };
 
 const dataabout = {
