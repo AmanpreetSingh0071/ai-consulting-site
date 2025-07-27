@@ -1,4 +1,4 @@
-const logotext = "AI Services";
+const logotext = "SkyLance AI Ltd";
 
 const meta = {
     title: "AI Consulting",
@@ -12,14 +12,14 @@ const introdata = {
         second: "Helping startups adopt GenAI",
         third: "Bridging AI and business value",
     },
-    description: "We’re an AI consulting group focused on delivering high-impact AI solutions — from strategy to deployment — using modern machine learning, GenAI, and MLOps tools.",
+    description: "We’re an AI consulting group focused on delivering high-impact AI solutions — from strategy to deployment — using modern machine learning, GenAI and MLOps tools.",
     your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
 };
 
 const dataabout = {
     title: "About Us",
     aboutme:
-        "We specialize in bridging the gap between businesses and cutting-edge AI. Whether it's designing custom LLM-powered assistants, deploying predictive models, or advising startups on scalable AI strategy — we’ve done it all.",
+        "We specialise in bridging the gap between businesses and cutting-edge AI. Whether it's designing custom LLM-powered assistants, deploying predictive models or advising startups on scalable AI strategy — we’ve done it all.",
 };
 
 const worktimeline = [
@@ -62,17 +62,17 @@ const services = [
     {
         title: "AI Strategy & Roadmapping",
         description:
-            "Helping businesses define AI use-cases, choose the right tools, and create scalable implementation plans.",
+            "Helping businesses define AI use-cases, choose the right tools and create scalable implementation plans.",
     },
     {
         title: "Custom AI/ML Solutions",
         description:
-            "Building intelligent models for forecasting, classification, automation, and insights — tailored to your industry.",
+            "Building intelligent models for forecasting, classification, automation and insights — tailored to your industry.",
     },
     {
         title: "Generative AI & LLM Chatbots",
         description:
-            "RAG pipelines, document QA bots, and GPT integrations for knowledge assistants and internal tools.",
+            "RAG pipelines, document QA bots and GPT integrations for knowledge assistants and internal tools.",
     },
     {
         title: "Model Deployment & API Integration",
