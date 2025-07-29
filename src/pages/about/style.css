@@ -70,7 +70,6 @@
     padding-bottom: 4px;
 }
 
-
 /*! CSS Used keyframes */
 
 @-webkit-keyframes fadeInUp {
@@ -97,4 +96,16 @@
         -webkit-transform: translateZ(0);
         transform: translateZ(0);
     }
+}
+
+/* ✅ Added for dark mode table visibility */
+.table {
+    background-color: var(--bg-color);
+}
+
+.table td,
+.table th {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-color: var(--text-color);
 }
