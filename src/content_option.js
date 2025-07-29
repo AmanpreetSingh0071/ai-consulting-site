@@ -153,11 +153,11 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "work.amanpreet.singh@gmail.com",
+    YOUR_EMAIL: "SkyLanceAI@outlook.com",
     YOUR_FONE: "+44 7823705602",
     description:
         "Let’s explore how AI can unlock value for your business. Drop us a message today.",
-    YOUR_SERVICE_ID: "service_5r6vlo8",
+    YOUR_SERVICE_ID: "service_zh9uibm",
     YOUR_TEMPLATE_ID: "template_6wqnwym",
     YOUR_USER_ID: "tI3lYbIH_OBPuAiJ7",
 };
