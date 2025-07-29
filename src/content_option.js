@@ -2,7 +2,7 @@ const logotext = "SkyLance AI Ltd";
 
 const meta = {
     title: "SkyLance AI — Enterprise-Ready AI Consulting",
-    description: "SkyLance AI Ltd bridges the gap between enterprise systems and cutting-edge AI. We deliver ML/LLM-powered solutions that are scalable, explainable, and production-ready.",
+    description: "SkyLance AI Ltd bridges the gap between enterprise systems and cutting-edge AI. We deliver ML/LLM-powered solutions that are scalable, explainable and production-ready.",
 };
 
 const introdata = {
@@ -12,14 +12,14 @@ const introdata = {
         second: "Transforming workflows with GenAI",
         third: "From Strategy to Deployment",
     },
-    description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact — with tailored LLMs, automation tools, and real-world MLOps deployments.",
+    description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact — with tailored LLMs, automation tools and real-world MLOps deployments.",
     your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
 };
 
 const dataabout = {
     title: "About Us",
     aboutme:
-        "SkyLance AI is a UK-based AI consulting startup founded by Amanpreet Ahluwalia, combining years of enterprise software integration with AI engineering expertise. We help businesses identify, prototype, and deploy AI solutions — whether it's custom GenAI assistants, predictive ML models, or scalable API-based services.",
+        "SkyLance AI is a UK-based AI consulting startup founded by Amanpreet Ahluwalia, combining years of enterprise software integration with AI engineering expertise. We help businesses identify, prototype and deploy AI solutions — whether it's custom GenAI assistants, predictive ML models or scalable API-based services.",
 };
 
 const worktimeline = [
@@ -37,17 +37,17 @@ const worktimeline = [
     jobtitle: "Trained ML Models for Forecasting",
     where: "Energy & Climate Sector",
     date: "Q2 2025",
-    }
+    },
     {
     jobtitle: "AI SaaS Prototypes",
     where: "Startups in Pre-seed/Seed Stage",
     date: "Delivered",
-    }
+    },
     {
     jobtitle: "Streamlined Internal Operations",
     where: "AI Agent Automation",
     date: "Ongoing",
-    }
+    },
 ];
 
 const expertise = [
@@ -82,7 +82,7 @@ const services = [
     {
         title: "Custom AI Model Development",
         description:
-            "Tailored machine learning and deep learning solutions, from ideation to model optimization.",
+            "Tailored machine learning and deep learning solutions, from ideation to model optimisation.",
     },
     {
         title: "Generative AI Chatbot & LLM Integration",
@@ -102,11 +102,11 @@ const services = [
     {
         title: "Model Deployment & API Integration",
         description:
-            "Deploying ML models as scalable APIs or frontends with Streamlit, FastAPI, or cloud-native apps.",
+            "Deploying ML models as scalable APIs or cloud-native apps.",
     },
     {
         title: "ERP & NetSuite AI Integrations",
-        description: "Enabling automation and smart analytics in ERP environments using AI-triggered alerts, reports, and bots.",
+        description: "Enabling automation and smart analytics in ERP environments using AI-triggered alerts, reports and bots.",
     }
 ];
 
