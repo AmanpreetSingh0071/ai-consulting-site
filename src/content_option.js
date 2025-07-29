@@ -52,24 +52,24 @@ const worktimeline = [
 
 const expertise = [
     {
-      category: "AI Frameworks",
-      tools: "PyTorch, TensorFlow, HuggingFace Transformers",
+      category: "Core AI/ML Capabilities",
+      tools: "Machine Learning Model Development, Natural Language Processing (NLP), Computer Vision & Image Recognition, Prompt Engineering, Predictive Analytics & Forecasting",
     },
     {
-      category: "GenAI Tools",
-      tools: "LangChain, OpenAI, RAG Pipelines, FAISS",
+      category: "Engineering & Data Stack",
+      tools: "Python, Node.js, React, API Development & Integration, Data Engineering (ETL/ELT Pipelines), Database Design, Cloud Architecture",
     },
     {
-      category: "MLOps",
-      tools: "Docker, GitHub Actions, MLflow",
+      category: "Automation & Integration",
+      tools: "Robotic Process Automation (RPA), CRM / ERP Integration (e.g., Salesforce, NetSuite), EDI/Data Exchange Solutions, Custom Workflow Automation",
     },
     {
       category: "Deployment",
       tools: "Streamlit, FastAPI, Vercel",
     },
     {
-      category: "Data Science",
-      tools: "Pandas, NumPy, R",
+      category: "Business & Product Insight",
+      tools: "AI Strategy Consulting, Product Discovery & PoC Design, Data-Driven Decision Making, Enterprise AI Enablement",
     },
   ];  
 
@@ -153,7 +153,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "SkyLanceAI@outlook.com",
+    YOUR_EMAIL: "SkylanceAI@outlook.com",
     YOUR_FONE: "+44 7823705602",
     description:
         "Let’s explore how AI can unlock value for your business. Drop us a message today.",
