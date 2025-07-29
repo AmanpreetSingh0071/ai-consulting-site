@@ -13,13 +13,13 @@ const introdata = {
         third: "From Strategy to Deployment",
     },
     description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact with tailored LLMs, automation tools and real-world MLOps deployments.",
-    your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
+    your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/ai-consulting-site/main/SkyLanceAI.png"
 };
 
 const dataabout = {
     title: "About Us",
     aboutme:
-        "SkyLance AI is a UK-based AI consulting startup founded by Amanpreet Ahluwalia, combining years of enterprise software integration with AI engineering expertise. We help businesses identify, prototype and deploy AI solutions — whether it's custom GenAI assistants, predictive ML models or scalable API-based services.",
+        "SkyLance AI is a UK-based AI consulting startup combining years of enterprise software integration with AI engineering expertise. We help businesses identify, prototype and deploy AI solutions whether it's custom GenAI assistants, predictive ML models or scalable API-based services.",
 };
 
 const worktimeline = [
