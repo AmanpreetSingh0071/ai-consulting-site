@@ -1,38 +1,53 @@
 const logotext = "SkyLance AI Ltd";
 
 const meta = {
-    title: "AI Consulting",
-    description: "We help businesses transform with AI—strategy, prototyping and real-time deployment of ML/LLM-powered solutions.",
+    title: "SkyLance AI — Enterprise-Ready AI Consulting",
+    description: "SkyLance AI Ltd bridges the gap between enterprise systems and cutting-edge AI. We deliver ML/LLM-powered solutions that are scalable, explainable, and production-ready.",
 };
 
 const introdata = {
     title: "AI Solutions for Real-World Problems",
     animated: {
-        first: "Deploying AI with Purpose",
-        second: "Helping startups adopt GenAI",
-        third: "Bridging AI and business value",
+        first: "Deploying AI that scales",
+        second: "Transforming workflows with GenAI",
+        third: "From Strategy to Deployment",
     },
-    description: "We’re an AI consulting group focused on delivering high-impact AI solutions — from strategy to deployment — using modern machine learning, GenAI and MLOps tools.",
+    description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact — with tailored LLMs, automation tools, and real-world MLOps deployments.",
     your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
 };
 
 const dataabout = {
     title: "About Us",
     aboutme:
-        "We specialise in bridging the gap between businesses and cutting-edge AI. Whether it's designing custom LLM-powered assistants, deploying predictive models or advising startups on scalable AI strategy — we’ve done it all.",
+        "SkyLance AI is a UK-based AI consulting startup founded by Amanpreet Ahluwalia, combining years of enterprise software integration with AI engineering expertise. We help businesses identify, prototype, and deploy AI solutions — whether it's custom GenAI assistants, predictive ML models, or scalable API-based services.",
 };
 
 const worktimeline = [
     {
-        jobtitle: "AI Strategy & Architecture",
-        where: "Enterprise Clients",
-        date: "Ongoing",
+        jobtitle: "Deployed Custom GPT Assistants",
+        where: "SME Clients across UK & EU",
+        date: "Delivered",
     },
     {
-        jobtitle: "GenAI Chatbots & Assistants",
-        where: "Startups & SMEs",
-        date: "2024 - Present",
+        jobtitle: "Integrated AI Dashboards with ERP",
+        where: "Enterprise Pilot Programs Fortune 500 Clients",
+        date: "2019 - Present",
     },
+    {
+    jobtitle: "Trained ML Models for Forecasting",
+    where: "Energy & Climate Sector",
+    date: "Q2 2025",
+    }
+    {
+    jobtitle: "AI SaaS Prototypes",
+    where: "Startups in Pre-seed/Seed Stage",
+    date: "Delivered",
+    }
+    {
+    jobtitle: "Streamlined Internal Operations",
+    where: "AI Agent Automation",
+    date: "Ongoing",
+    }
 ];
 
 const expertise = [
@@ -65,20 +80,34 @@ const services = [
             "Helping businesses define AI use-cases, choose the right tools and create scalable implementation plans.",
     },
     {
-        title: "Custom AI/ML Solutions",
+        title: "Custom AI Model Development",
         description:
-            "Building intelligent models for forecasting, classification, automation and insights — tailored to your industry.",
+            "Tailored machine learning and deep learning solutions, from ideation to model optimization.",
     },
     {
-        title: "Generative AI & LLM Chatbots",
+        title: "Generative AI Chatbot & LLM Integration",
         description:
-            "RAG pipelines, document QA bots and GPT integrations for knowledge assistants and internal tools.",
+            "Conversational AI powered by GPT/RAG pipelines, including multi-platform deployment support.",
+    },
+    {
+        title: "AI Agent Integrations",
+        description:
+            "Process automation with intelligent agents designed to streamline workflows and reduce manual effort.",
+    },
+    {
+        title: "Website, App & SaaS Development",
+        description:
+            "Full-stack development of responsive web platforms and AI-integrated SaaS solutions.",
     },
     {
         title: "Model Deployment & API Integration",
         description:
             "Deploying ML models as scalable APIs or frontends with Streamlit, FastAPI, or cloud-native apps.",
     },
+    {
+        title: "ERP & NetSuite AI Integrations",
+        description: "Enabling automation and smart analytics in ERP environments using AI-triggered alerts, reports, and bots.",
+    }
 ];
 
 const dataportfolio = [
