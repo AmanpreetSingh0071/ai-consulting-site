@@ -12,7 +12,7 @@ const introdata = {
         second: "Transforming workflows with GenAI",
         third: "From Strategy to Deployment",
     },
-    description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact — with tailored LLMs, automation tools and real-world MLOps deployments.",
+    description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact with tailored LLMs, automation tools and real-world MLOps deployments.",
     your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/Aman_portfolio/main/Firefly%20Design%20a%20professional%20LinkedIn%20banner%20for%20an%20AI%20Engineer._Background-%20Dark%20navy%20blue%20to%20deep.JPEG"
 };
 
@@ -64,14 +64,10 @@ const expertise = [
       tools: "Robotic Process Automation (RPA), CRM / ERP Integration (e.g., Salesforce, NetSuite), EDI/Data Exchange Solutions, Custom Workflow Automation",
     },
     {
-      category: "Deployment",
-      tools: "Streamlit, FastAPI, Vercel",
-    },
-    {
       category: "Business & Product Insight",
       tools: "AI Strategy Consulting, Product Discovery & PoC Design, Data-Driven Decision Making, Enterprise AI Enablement",
     },
-  ];  
+  ];
 
 const services = [
     {
