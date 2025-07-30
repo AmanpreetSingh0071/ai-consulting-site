@@ -13,7 +13,7 @@ const introdata = {
         third: "From Strategy to Deployment",
     },
     description: "SkyLance AI Ltd helps businesses translate AI potential into actual business impact with tailored LLMs, automation tools and real-world MLOps deployments.",
-    your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/ai-consulting-site/main/WhatsApp%20Image%202025-07-29%20at%2009.00.16_64bc1405.jpg"
+    your_img_url: "https://raw.githubusercontent.com/AmanpreetSingh0071/ai-consulting-site/main/SkyLanceAI.png"
 };
 
 const dataabout = {
